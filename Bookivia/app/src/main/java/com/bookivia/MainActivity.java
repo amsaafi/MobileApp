@@ -1,4 +1,4 @@
-package com.example.bookivia;
+package com.bookivia;
 
 import androidx.appcompat.app.AppCompatActivity;
 
